@@ -191,6 +191,12 @@ These are ready to use applications built using LanceDB serverless vector databa
 
 | Project Name                                        | Description                                                                                                          | Screenshot                                |
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| [Sentence auto complete](https://github.com/lancedb/vectordb-recipes/tree/main/applications/node/sentance_auto_complete) | Sentence auto complete app using lanchain.js with LanceDB, allows you to get sentance autocomplete suggestions based on factual context based on you typed text to help you with your articles.                  | ![Sentence auto complete](https://github.com/lancedb/vectordb-recipes/blob/main/assets/sentance_Auto_complete.gif) |
+
+
+
+| Project Name                                        | Description                                                                                                          | Screenshot                                |
+|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | [YOLOExplorer](https://github.com/lancedb/yoloexplorer) | Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds                  | ![YOLOExplorer](https://github.com/lancedb/vectordb-recipes/assets/15766192/ae513a29-8f15-4e0b-99a1-ccd8272b6131) |
 | [Website Chatbot (Deployable Vercel Template)](https://github.com/lancedb/lancedb-vercel-chatbot) | Create a chatbot from the sitemap of any website/docs of your choice. Built using vectorDB serverless native javascript package. | ![Chatbot](assets/vercel-template.gif)    |
 | [ Chat with multiple  URL/website  ](https://github.com/lancedb/vectordb-recipes/tree/main/applications/chat_with_anywebsite/) | Conversational AI for Any Website with Mistral,Bge Embedding & LanceDB |![webui_aa](https://github.com/akashAD98/vectordb-recipes/assets/62583018/47a9af87-2d94-4fd8-afa1-373db03bd728)  |
